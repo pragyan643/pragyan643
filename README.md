@@ -42,15 +42,8 @@ Here are some ideas to get you started:
 
 ### 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+
 
 ---
 
-### 📊 GitHub Stats
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akash-kanar&theme=tokyonight)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akash-kanar&theme=tokyonight)
-![Overall Statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=akash-kanar&theme=tokyonight)
-
----
-
-> "Everything is new, untill you can't do." – Akash Kanar
+> "co" –Pragyan Sahu
