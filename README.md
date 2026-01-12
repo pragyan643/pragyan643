@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔧Web Developer Intern based in Bhubaneswar, India.
 - 📬 How to reach me: [pragyansahu643@gmail.com](mailto:pragyansahu643@gmail.com)
-- 🧠 Solved 168+ LeetCode problems, showcasing strong skills in Java, C++, and Python.
+- 🧠 Solved many problems, showcasing strong skills in Java, C++, and Python.
 - 🔗 Rocking a cool 8 connections on [LinkedIn](www.linkedin.com/in/pragyan643)!
 - 🚀 Development sparked my coding passion—now it’s a lifelong affair! Dive into my [portfolio](https://pragyan643.github.io/Portfolio/).
 
